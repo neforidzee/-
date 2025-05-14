@@ -1,0 +1,20 @@
+    body{
+        background-color: black;
+    }
+    .shapka{
+        width: 99%;
+        height: auto;
+        margin: 0px;
+        background-color: black;
+    }
+    .content,p{
+        background-color: darkred;
+        color: white;
+    }
+    .podval{
+        background-color: black;
+        color: white
+    }
+    a{
+        color: rgb(0, 234, 255);
+    }
